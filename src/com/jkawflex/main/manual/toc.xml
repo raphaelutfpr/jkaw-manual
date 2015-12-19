@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE toc 
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 1.0//EN" 
+  "http://java.sun.com/products/javahelp/toc_1_0.dtd">
+<toc version="1.0">
+  <tocitem target="indice" text="Conteudo JKawFlex" image="ico_folha">
+     </tocitem target="introducao" text="Introdução" image="ico_topico"/>
+     </tocitem target="opcao.introducao.sistema" text="Sistema" image="ico_topico"/>
+     </tocitem target="opcao.introducao.suporte" text="Suporte" image="ico_topico"/>
+     </tocitem target="opcao.introducao.instalacao" text="Instalação" image="ico_topico"/>
+     <tocitem target="opcao" text="Opção" image="ico_folha">
+        <tocitem target="opcao.arquivo" text="Arquivos" image="ico_folha">
+          <tocitem target="opcao.arquivo.configuracaosistema" text="Configuração do Sistema" image="ico_folha">
+          	</tocitem target="opcao.arquivo.configuracaosistema.diretivas" text="Configurações das Diretivas" image="ico_high"/>          
+          	</tocitem target="opcao.arquivo.configuracaosistema.transacao" text="Configurações das Transações" image="ico_high"/>          
+          	</tocitem target="opcao.arquivo.configuracaosistema.lookandfeel" text="Look And Feel" image="ico_high"/>          
+          </tocitem>
+          </tocitem target="opcao.arquivo.cadastroempresa" text="Cadastro Empresas" image="ico_high"/>
+          </tocitem target="opcao.arquivo.cadastrousuario" text="Cadastro de Usuarios" image="ico_high"/>
+          </tocitem target="opcao.arquivo.cadastroconfiguraregistro" text="Cadastro Classificação de Registro" image="ico_high"/>
+          </tocitem target="opcao.arquivo.impressora" text="Configuração de Impressoras" image="ico_high"/>
+          </tocitem target="opcao.arquivo.configurabancodados" text="Configuração de Acesso ao Banco de Dados" image="ico_high"/>
+          </tocitem target="opcao.arquivo.importalistapreco" text="Importacao/Atualização Lista de Preço Equipamentos" image="ico_high"/>
+          </tocitem target="opcao.arquivo.sair" text="Sair" image="ico_high"/>
+        </tocitem> 
+           <tocitem target="opcao.cadastro" text="Cadastros" image="ico_folha">
+        	 <tocitem target="opcao.cadastro.cadastrogerais" text="Cadastros Gerais" image="ico_folha">
+        	     </tocitem target="opcao.cadastro.cadastrogerais.cadastropais" text="Cadastros de Pais" image="ico_high"/>
+            	 </tocitem target="opcao.cadastro.cadastrogerais.cadastroestados" text="Cadastros de Estados" image="ico_high"/>
+            	 </tocitem target="opcao.cadastro.cadastrogerais.cadastrocidades" text="Cadastros de Cidades" image="ico_high"/>
+            	 </tocitem target="opcao.cadastro.cadastrogerais.cadastrofiliais" text="Cadastros de Filiais" image="ico_high"/>
+               	 </tocitem target="opcao.cadastro.cadastrogerais.cadastrogrupossubgrupos" text="Cadastro de Grupos/Sub-Grupos de Cadastro Gerais" image="ico_high"/>
+            	 </tocitem target="opcao.cadastro.cadastrogerais.cadastrogerais" text="Cadastros Gerais" image="ico_high"/>
+            	 </tocitem target="opcao.cadastro.cadastrogerais.cadastroclientes" text="Cadastros de Clientes" image="ico_high"/>
+            	 </tocitem target="opcao.cadastro.cadastrogerais.cadastrofornecedores" text="Cadastros de Fornecedores" image="ico_high"/>
+            	 </tocitem target="opcao.cadastro.cadastrogerais.cadastrofuncionarios" text="Cadastros de Funcionarios" image="ico_high"/>
+            	 </tocitem target="opcao.cadastro.cadastrogerais.cadastrovendedores" text="Cadastros de Representantes / Vendedores" image="ico_high"/>
+            	 </tocitem target="opcao.cadastro.cadastrogerais.cadastrotransportadores" text="Cadastros de Transportadores" image="ico_high"/>
+            	 </tocitem target="opcao.cadastro.cadastrogerais.cadastromotoristas" text="Cadastros de Motoristas" image="ico_high"/>
+            	 </tocitem target="opcao.cadastro.cadastrogerais.cadastrotrabalhadores" text="Cadastros de Trabalhador" image="ico_high"/>
+            	 </tocitem target="opcao.cadastro.cadastrogerais.cadastroprodutores" text="Cadastros de Produtores" image="ico_high"/>
+            	 </tocitem target="opcao.cadastro.cadastrogerais.cadastrotecnicos" text="Cadastros de Tecnicos" image="ico_high"/>
+            	 </tocitem target="opcao.cadastro.cadastrogerais.cadastrosindicatos" text="Cadastros de Sindicatos" image="ico_high"/>
+             </tocitem> 
+             <tocitem target="opcao.cadastro.faturamento" text="Cadastros Faturamento" image="ico_folha">
+             	 </tocitem target="opcao.cadastro.faturamento.cadastrogrupossubgruposprodutos" text="Cadastros de Grupos Subgrupos de Produtos" image="ico_high"/>
+        	     </tocitem target="opcao.cadastro.faturamento.cadastro marcas produtos" text="Cadastros de Marcas dos Produtos" image="ico_high"/>
+           	     </tocitem target="opcao.cadastro.faturamento.cadastro grupos subgrupos produtos" text="Cadastros de Grupos Subgrupos de Produtos" image="ico_high"/>
+           	     </tocitem target="opcao.cadastro.faturamento.cadastro lista precos" text="Cadastros Lista de Preços" image="ico_high"/>
+           	     </tocitem target="opcao.cadastro.faturamento.cadastro unidade medidas" text="Cadastros Unidade de Medidas" image="ico_high"/>
+           	     <tocitem target="opcao.cadastro.faturamento.cadastro produtos" text="Cadastros de Produtos" image="ico_folha">
+           	         </tocitem target="opcao.cadastro.faturamento.cadastro produtos.cadastro produtos" text="Cadastros Produtos" image="ico_high"/>
+           	         </tocitem target="opcao.cadastro.faturamento.cadastro produtos.cadastro classificacao origem" text="Cadastros Classificação de Origem" image="ico_high"/>
+           	         </tocitem target="opcao.cadastro.faturamento.cadastro produtos.classificacao tributaria" text="Cadastros Classificação Tributaria" image="ico_high"/>
+           	         </tocitem target="opcao.cadastro.faturamento.cadastro produtos.classificacao tipi" text="Cadastros Classificação da TIPI" image="ico_high"/>
+           	         </tocitem target="opcao.cadastro.faturamento.cadastro produtos.aliquotas icms" text="Aliquotas de ICMS" image="ico_high"/>           	         
+           	     </tocitem>    
+           	     </tocitem target="opcao.cadastro.faturamento.cadastro condicao pagamento" text="Cadastros Condição de Pagamento" image="ico_high"/>
+           	     </tocitem target="opcao.cadastro.faturamento.cadastro serie documentos" text="Cadastros Série de Documentos" image="ico_high"/>
+           	     </tocitem target="opcao.cadastro.faturamento.cadastro almoxarifado" text="Cadastros de Almoxarifado" image="ico_high"/>
+           	 </tocitem>
+           	 <tocitem target="opcao.cadastro.financeiro" text="Cadastros Financeiro" image="ico_folha">
+        	     </tocitem target="opcao.cadastro.financeiro.cadastro bancos" text="Cadastros de Bancos" image="ico_high"/>
+        	     </tocitem target="opcao.cadastro.financeiro.cadastro agencias" text="Cadastros de Agencias" image="ico_high"/>
+        	     </tocitem target="opcao.cadastro.financeiro.cadastro tipo conta corrente" text="Cadastros Tipo de C\C" image="ico_high"/>
+        	     </tocitem target="opcao.cadastro.financeiro.cadastro conta corrente" text="Cadastros de Conta Corrente" image="ico_high"/>
+        	     </tocitem target="opcao.cadastro.financeiro.cadastro portador" text="Cadastros de Portador" image="ico_high"/>
+        	     </tocitem target="opcao.cadastro.financeiro.cadastro tipo cobranca" text="Cadastros Tipo de Cobrança" image="ico_high"/>
+        	     </tocitem target="opcao.cadastro.financeiro.cadastro classificacao gerencial" text="Cadastros de Classificação Gerencial" image="ico_high"/>
+        	 </tocitem>
+        	 </tocitem target="opcao.cadastro.escritafiscal" text="Cadastro Escrita Fiscal" image="ico_folha"/>
+        </tocitem>         
+        <tocitem target="opcao.movimentacao" text="Movimentação" image="ico_folha">
+           </tocitem target="opcao.movimentacao.moviemtnacao medicamentos" text="Controle/Movimentação de Medicamentos/Insumos Controlados" image="ico_high"/>
+        </tocitem>
+        <tocitem target="opcao.relatorios" text="Relatorios" image="ico_folha">
+        </tocitem target="opcao.relatorio.listagem geral medicamentos" text="Listagem Geral de Medicamentos" image="ico_high"/>
+        </tocitem target="opcao.relatorio.balanco aquisicao medicamento controlado" text="Balanco de Aquisicao de Medicamentos Controlados" image="ico_high"/>
+        </tocitem>
+     </tocitem> 
+  </tocitem>   
+</toc>

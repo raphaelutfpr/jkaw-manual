@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<!DOCTYPE index 
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Index Version 1.0//EN" 
+         "http://java.sun.com/products/javahelp/index_1_0.dtd">
+<index version="1.0">
+  <indexitem text="Indice" target="indice"/>
+  <indexitem text="Topicos">
+    <indexitem text="Introdução" target="introducao"/>
+  	<indexitem text="Sistema" target="opcao.introducao.sistema"/>
+  	<indexitem text="Suporte" target="opcao.introducao.suporte"/>
+    <indexitem text="Instalação" target="opcao.introducao.instalacao"/>
+    <indexitem text="Opção" target="opcao">
+  	  <indexitem text="Arquivos" target="opcao.arquivo">
+  	    <indexitem text="Configuração do Sistema" target="opcao.arquivo.configuracaosistema">
+  	      <indexitem text="Configurações das Diretivas" target="opcao.arquivo.configuracaosistema.diretivas"/>
+  	      <indexitem text="Configurações das Transações" target="opcao.arquivo.configuracaosistema.transacao"/>
+  	      <indexitem text="Look And Feel" target="opcao.arquivo.configuracaosistema.lookandfeel"/>
+  	    </indexitem>  
+  	    <indexitem text="Cadastro Empresas" target="opcao.arquivo.cadastroempresa"/>
+  	    <indexitem text="Cadastro Usuarios" target="opcao.arquivo.cadastrousuario"/>  	    
+   	    <indexitem text="Cadastros de Configuracao de Registros" target="opcao.arquivo.cadastroconfiguraregistro"/>
+	    <indexitem text="Configuração de Impressoras" target="opcao.arquivo.impressora"/>
+  	    <indexitem text="Configuração de Acesso ao Banco de Dados" target="opcao.arquivo.configurabancodados"/>
+  	    </indexitem text="Importacao/Atualização Lista de Preço Equipamentos" target="opcao.arquivo.importalistapreco"/>
+  	    </indexitem text="Sair" target="opcao.arquivo.sair"/>
+  	  </indexitem>  
+  	  <indexitem text="Cadastro" target="opcao.cadastro">
+  	   	 	<indexitem text="Cadastro Gerais" target="opcao.cadastro.cadastrogerais">
+  	   	 	    <indexitem text="Cadastros de Pais" target="opcao.cadastro.cadastrogerais.cadastropais"/>
+  	      		<indexitem text="Cadastros de Estados" target="opcao.cadastro.cadastrogerais.cadastroestados"/>
+  	      		<indexitem text="Cadastros de Cidades" target="opcao.cadastro.cadastrogerais.cadastrocidades"/>
+  	      		<indexitem text="Cadastros de Filiais" target="opcao.cadastro.cadastrogerais.cadastrofiliais"/>
+  	      		<indexitem text="Cadastro de Grupos/Sub-Grupos de cadastroGerais" target="opcao.cadastro.cadastrogerais.cadastrogrupossubgrupos"/>
+  	      		<indexitem text="Cadastros Gerais" target="opcao.cadastro.cadastrogerais.cadastrogerais"/>
+  	      		<indexitem text="Cadastros de Clientes" target="opcao.cadastro.cadastrogerais.cadastroclientes"/>
+  	      		<indexitem text="Cadastros de Fornecedores" target="opcao.cadastro.cadastrogerais.cadastrofornecedores"/>
+  	      		<indexitem text="Cadastros de Funcionarios" target="opcao.cadastro.cadastrogerais.cadastrofuncionarios"/>
+  	      		<indexitem text="Cadastros de Representantes / Vendedores" target="opcao.cadastro.cadastrogerais.cadastrovendedores"/>
+  	      		<indexitem text="Cadastros de Transportadores" target="opcao.cadastro.cadastrogerais.cadastrotransportadores"/>
+  	      		<indexitem text="Cadastros de Motoristas" target="opcao.cadastro.cadastrogerais.cadastromotoristas"/>
+  	      		<indexitem text="Cadastros de Trabalhadores" target="opcao.cadastro.cadastrogerais.cadastrotrabalhadores"/>
+  	      		<indexitem text="Cadastros de Produtores" target="opcao.cadastro.cadastrogerais.cadastroprodutores"/>
+  	      		<indexitem text="Cadastros de Tecnicos" target="opcao.cadastro.cadastrogerais.cadastrotecnicos"/>
+  	      		<indexitem text="Cadastros de Sindicatos" target="opcao.cadastro.cadastrogerais.cadastrosindicatos"/>
+  	     	</indexitem> 
+  	    <indexitem text="Cadastros Faturamento" target="opcao.cadastro.faturamento">
+  	      <indexitem text="Cadastros de Grupos/Sub-grupos de Produtos" target="opcao.cadastro.faturamento.cadastrogrupossubgruposprodutos"/>
+  	      <indexitem text="Cadastros de Marcas dos Produtos" target="opcao.cadastro.faturamento.cadastro marcas produtos"/>
+  	      <indexitem text="Cadastros de Grupos Subgrupos de Produtos" target="opcao.cadastro.faturamento.cadastro grupos subgrupos produtos"/>
+  	      <indexitem text="Cadastros Lista de Preços" target="opcao.cadastro.faturamento.cadastro lista precos"/>
+  	      <indexitem text="Cadastros Unidade de Medidas" target="opcao.cadastro.faturamento.cadastro unidade medidas"/>
+  	      <indexitem text="Cadastros de Produtos" target="opcao.cadastro.faturamento.cadastro produtos">
+  	         <indexitem text="Cadastros Produtos" target="opcao.cadastro.faturamento.cadastro produtos.cadastro produtos"/>
+  	         <indexitem text="Cadastros Classificação de Origem" target="opcao.cadastro.faturamento.cadastro produtos.cadastro classificacao origem"/>
+  	         <indexitem text="Cadastros Classificação Tributaria" target="opcao.cadastro.faturamento.cadastro produtos.classificacao tributaria"/>
+  	         <indexitem text="Cadastros Classificação TIPI" target="opcao.cadastro.faturamento.cadastro produtos.classificacao tipi"/>
+  	         <indexitem text="Aliqutoas de ICMS" target="opcao.cadastro.faturamento.cadastro produtos.aliquotas icms"/>  	        
+  	      </indexitem>
+  	      <indexitem text="Cadastros Condição de Pagamento" target="opcao.cadastro.faturamento.cadastro condicao pagamento"/>
+  	      <indexitem text="Cadastros Série de Documentos" target="opcao.cadastro.faturamento.cadastro serie documentos"/>
+  	      <indexitem text="Cadastros de Almoxarifado" target="opcao.cadastro.faturamento.cadastro almoxarifado"/>
+  	    </indexitem>  
+  	    <indexitem text="Cadastros Financeiro" target="opcao.cadastro.financeiro">
+  	       <indexitem text="Cadastros de Bancos" target="opcao.cadastro.financeiro.cadastro bancos"/>
+  	       <indexitem text="Cadastros de Agencias" target="opcao.cadastro.financeiro.cadastro agencias"/>
+  	       <indexitem text="Cadastros Tipo de C\C" target="opcao.cadastro.financeiro.cadastro tipo conta corrente"/>
+  	       <indexitem text="Cadastros de Conta Corrente" target="opcao.cadastro.financeiro.cadastro conta corrente"/>
+  	       <indexitem text="Cadastros de Portador" target="opcao.cadastro.financeiro.cadastro portador"/>
+  	       <indexitem text="Cadastros Tipo de Cobrança" target="opcao.cadastro.financeiro.cadastro tipo cobranca"/>
+  	       <indexitem text="Cadastros de Classificação Gerencial" target="opcao.cadastro.financeiro.cadastro classificacao gerencial"/>
+  	    </indexitem>
+  	    <indexitem text="Cadastro Escrita Fiscal" target="opcao.cadastro.escritafiscal"/>
+  	   </indexitem>
+  	  <indexitem text="Movimentação" target="opcao.movimentacao"/>
+    </indexitem>
+    <indexitem text="Criação" target="criacao"/>
+    <indexitem text="Aplicação" target="aplicacao"/>
+	<indexitem text="Busca" target="aplicacao.busca"/>
+  	    <indexitem text="Cadastro Usuarios" target="opcao.arquivo.cadastro usuarios"/>
+  	    <indexitem text="Configuração de Acesso ao Banco de Dados" target="opcao.arquivo.configuracaobancodados"/>
+    <indexitem text="Cadastro" target="opcao.Cadastro">
+  	      <indexitem text="Cadastro de Grupos/Sub-Grupos de cadastro Gerais" target="opcao.cadastro.cadastros gerais.cadastrogrupossubgrupos"/>
+  	    <indexitem text="Cadastros Financeiro" target="opcao.cadastro.financeiro"/>
+  	    <indexitem text="Cadastros Faturamento" target="opcao.cadastro.faturamento"/>
+ 	      <indexitem text="Cadastro de Grupos/Sub-Grupos" target="opcao.cadastro.cadastros gerais.cadastrogrupossubgrupos"/>
+	<indexitem text="teste" target="aplicacao.busca"/>
+      </indexitem>
+  </indexitem>
+</index>

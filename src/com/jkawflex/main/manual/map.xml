@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE map 
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Map Version 1.0//EN" 
+         "http://java.sun.com/products/javahelp/map_1_0.dtd">
+  <map version="1.0">
+    <title> Manual JKawFlex</title>
+    <mapID target="indice" url="indice.html"/>
+    <mapID target="opcao.opcaoindice" url="opcaoindice.html"/>
+    <mapID target="popup" url="popup.html"/>
+    <!-- Introdução -->
+    <mapID target="introducao" url="opcao/introducao/introducao.html"/>
+    <mapID target="opcao.introducao.sistema" url="opcao/introducao/sistema/sistemajk.html"/>
+    <mapID target="opcao.introducao.suporte" url="opcao/introducao/suporte/introducao.html"/>
+    <mapID target="opcao.introducao.instalacao" url="opcao/introducao/instalacao/instalacao.html" />
+    <!-- Opção -->
+    <mapID target="opcao" url="opcao/opcaoindice.html"/>
+    <!-- Opção Arquivo -->
+    <mapID target="opcao.arquivo" url="opcao/arquivo/arquivoindice.html"/>
+    	<mapID target="opcao.arquivo.configuracaosistema" url="opcao/arquivo/configuracaosistema/configuracaosistema.html"/>
+    		<mapID target="opcao.arquivo.configuracaosistema.diretivas" url="opcao/arquivo/configuracaosistema/diretivas/diretivas.html"/>
+	     	<mapID target="opcao.arquivo.configuracaosistema.transacao" url="opcao/arquivo/configuracaosistema/transacao/transacao.html"/>
+	     	<mapID target="opcao.arquivo.configuracaosistema.lookandfeel" url="opcao/arquivo/configuracaosistema/lookandfeel/lookandfeel.html"/>
+       	<mapID target="opcao.arquivo.cadastroempresa" url="opcao/arquivo/cadastroempresa/cadastroempresa.html"/>
+    	<mapID target="opcao.arquivo.cadastrousuario" url="opcao/arquivo/cadastrousuario/cadastrousuario.html"/>
+    	<mapID target="opcao.arquivo.cadastroconfiguraregistro" url="opcao/arquivo/cadastroconfiguraregistro/cadastroconfiguraregistro.html"/>
+	    <mapID target="opcao.arquivo.impressora" url="opcao/arquivo/impressora/configuraimpressora.html"/>
+    	<mapID target="opcao.arquivo.configurabancodados" url="opcao/arquivo/configurabancodados/configurabancodados.html"/>
+    	<mapID target="opcao.arquivo.importalistapreco" url="opcao/arquivo/importalistapreco/importalistapreco.html"/>
+    <!-- Opção Cadastro Gerais-->
+    <mapID target="opcao.cadastro" url="opcao/Cadastro/cadastroindice.html"/>
+    <mapID target="opcao.cadastro.cadastrogerais" url="opcao/cadastro/cadastrogerais/cadastrogerais.html"/>
+    <mapID target="opcao.cadastro.cadastrogerais.cadastropais" url="opcao/cadastro/cadastrogerais/cadastropais/cadastropais.html"/>
+    <mapID target="opcao.cadastro.cadastrogerais.cadastroestados" url="opcao/cadastro/cadastrogerais/cadastroestados/cadastroestados.html"/>
+    <mapID target="opcao.cadastro.cadastrogerais.cadastrocidades" url="opcao/cadastro/cadastrogerais/cadastrocidades/cadastrocidades.html"/>
+    <mapID target="opcao.cadastro.cadastrogerais.cadastrofiliais" url="opcao/cadastro/cadastrogerais/cadastrofiliais/cadastrofiliais.html"/>
+    <mapID target="opcao.cadastro.cadastrogerais.cadastrogrupossubgrupos" url="opcao/cadastro/cadastrogerais/cadastrofiliais/cadastrofiliais.html"/>
+    <mapID target="opcao.cadastro.cadastrogerais.cadastrogrupossubgrupos" url="opcao/cadastro/cadastrogerais/cadastrogrupossubgrupos/cadastrogrupossubgrupos.html"/>
+    <mapID target="opcao.cadastro.cadastrogerais.cadastrogerais" url="opcao/cadastro/cadastrogerais/cadastrogerais/cadastrogerais.html"/>
+    <mapID target="opcao.cadastro.cadastrogerais.cadastroclientes" url="opcao/cadastro/cadastrogerais/cadastroclientes/cadastroclientes.html"/>
+    <mapID target="opcao.cadastro.cadastrogerais.cadastrofornecedores" url="opcao/cadastro/cadastrogerais/cadastrofornecedores/cadastrofornecedores.html"/>
+    <mapID target="opcao.cadastro.cadastrogerais.cadastrofuncionarios" url="opcao/cadastro/cadastrogerais/cadastrofuncionarios/cadastrofuncionarios.html"/>
+    <mapID target="opcao.cadastro.cadastrogerais.cadastrovendedores" url="opcao/cadastro/cadastrogerais/cadastrovendedores/cadastrovendedores.html"/>
+    <mapID target="opcao.cadastro.cadastrogerais.cadastrotransportadores" url="opcao/cadastro/cadastrogerais/cadastrotransportadores/cadastrotransportadores.html"/>
+    <mapID target="opcao.cadastro.cadastrogerais.cadastromotoristas" url="opcao/cadastro/cadastrogerais/cadastromotoristas/cadastromotoristas.html"/>
+    <mapID target="opcao.cadastro.cadastrogerais.cadastrotrabalhadores" url="opcao/cadastro/cadastrogerais/cadastrotrabalhadores/cadastrotrabalhadores.html"/>
+    <mapID target="opcao.cadastro.cadastrogerais.cadastroprodutores" url="opcao/cadastro/cadastrogerais/cadastroprodutores/cadastroprodutores.html"/>
+    <mapID target="opcao.cadastro.cadastrogerais.cadastrotecnicos" url="opcao/cadastro/cadastrogerais/cadastrotecnicos/cadastrotecnicos.html"/>
+    <mapID target="opcao.cadastro.cadastrogerais.cadastrosindicatos" url="opcao/cadastro/cadastrogerais/cadastrosindicatos/cadastrosindicatos.html"/>
+    <!-- Opção Cadastro Faturamento -->
+    <mapID target="opcao.cadastro.faturamento" url="opcao/cadastro/faturamento/cadastrofaturamento.html"/>
+    <mapID target="opcao.cadastro.faturamento.cadastrogrupossubgruposprodutos" url="opcao/cadastro/faturamento/cadastrogrupossubgruposprodutos/cadastrogrupossubgruposprodutos.html"/>
+    <!-- Opção Cadastro Financerio -->
+    <!-- Opção Cadastro Escrita Fiscal -->
+    <mapID target="opcao.cadastro.escritafiscal" url="opcao/cadastro/escritafiscal/cadastroescritafiscal.html"/>
+    <!-- opção movimentação -->
+    <mapID target="opcao.movimentacao" url="opcao/movimentacao/jkawflexMovimentacao.html"/> 
+    <!-- Relatorios --> 
+    <mapID target="opcao.relatorios" url="opcao/relatorios/relatorios.html"/> 
+    <!-- imagens --> 
+    <mapID target="imagens" url="imagens/arquivo.html"/>
+    <!-- Icones -->
+    <mapID target="opcaoarquivo" url="imagens/menuarquivos.jpeg"/>
+    <!-- Gerais --> 
+    <mapID target="aplicacao" url="aplicacao/aplicacao.html"/>
+    <mapID target="aplicacao.busca" url="aplicacao/busca/busca.html"/>
+    <mapID target="ico_ajuda" url="icones/ajuda.gif"/>
+    <mapID target="ico_topico" url="icones/topico.gif"/>
+    <mapID target="ico_high" url="icones/high.gif"/>
+    <mapID target="ico_procurar" url="icones/procurar.gif"/>
+    <mapID target="ico_popup" url="icones/cursor_ajuda.gif"/>    
+    <mapID target="opcao.cadastrocadastro auxiliar" url="opcao/cadastro/cadastro auxiliar/cadastro.html"/>
+    <mapID target="opcao.cadastro.cadastro tipo uso medicamento" url="opcao/cadastro/cadastro tipo uso medicamento/cadastro.html"/>
+    <mapID target="opcao.cadastro.cadastro tipo operacao fiscal" url="opcao/cadastro/cadastro tipo operacao fiscal/cadastro.html"/>
+    <mapID target="opcao.cadastrocadastro motivos perda medicamento" url="opcao/cadastro/cadastro motivos perda medicamento/cadastro.html"/>
+    <mapID target="opcao.cadastro.indicativos" url="opcao/cadastro/indicativos/cadastro.html"/>
+    <mapID target="opcao.cadastro.cadastro indicativo tipo unidade" url="opcao/cadastro/indicativos/cadastro indicativo tipo unidade/cadastro.html"/>
+    <mapID target="opcao.cadastro.cadastro indicativo unidade farmaceuticas" url="opcao/cadastro/indicativos/cadastro indicativo unidade farmacotecnicas/cadastro.html"/>
+    <mapID target="opcao.cadastro.cadastro indicativo documentos indentificacao" url="opcao/cadastro/indicativos/cadastro indicativo documentos indentificacao/cadastro.html"/>
+    <mapID target="opcao.cadastro.cadastro compradores" url="opcao/cadastro/cadastro compradores/cadastro.html"/>
+    <mapID target="opcao.cadastro.medicamentos" url="opcao/cadastro/medicamentos/cadastro.html"/>
+    <mapID target="opcao.cadastro.grupo substancia" url="opcao/cadastro/grupo substancia/cadastro.html"/>
+    <mapID target="opcao.cadastro.substancia" url="opcao/cadastro/substancia/cadastro.html"/>
+    <mapID target="opcao.cadastro.tipo inscricao" url="opcao/cadastro/tipo inscricao/cadastro.html"/>
+    <mapID target="opcao.cadastro.profissionais" url="opcao/cadastro/profissionais/cadastro.html"/>
+    <mapID target="opcao.cadastro.lote medicamento" url="opcao/cadastro/lote medicamento/cadastro.html"/>
+    <!-- Opção de Cadastros gerais -->
+    <mapID target="opcao.cadastro.cadastrosgerais" url="opcao/cadastro/cadastrosgerais/jkawflexGerais.html"/>
+    <mapID target="opcao.cadastro.cadastrosgerais.cadastropaises" url="opcao/cadastro/cadastrosgerais/cadastropaises/jkawflexcadastropaises.html"/>
+    <mapID target="opcao.cadastro.cadastrosgerais.cadastroestados" url="opcao/cadastro/cadastrosgerais/cadastroestados/jkawflexcadastroestados.html"/>
+    <mapID target="opcao.cadastro.cadastrosgerais.cadastrocidades" url="opcao/cadastro/cadastrosgerais/cadastrocidades/jkawflexcadastrocidades.html"/>
+    <mapID target="opcao.cadastro.cadastrosgerais.cadastrogrupossubgrupos" url="opcao/cadastro/cadastrosgerais/cadastrogrupossubgrupos/jkawflexcadastrogrupossubgrupos.html"/>
+    <mapID target="opcao.cadastro.cadastrosgerais.cadastrofiliais" url="opcao/cadastro/cadastrosgerais/cadastrofiliais/jkawflexcadastrofiliais.html"/>
+    <mapID target="opcao.cadastro.cadastrosgerais.cadastrogerais" url="opcao/cadastro/cadastrosgerais/cadastrogerais/jkawflexcadastrogerais.html"/>
+        <mapID target="opcao.cadastro.cadastrosgerais.cadastroclientes" url="opcao/cadastro/cadastrosgerais/cadastroclientes/jkawflexcadastroclientes.html"/>
+        <mapID target="opcao.cadastro.cadastrosgerais.cadastrofornecedores" url="opcao/cadastro/cadastrosgerais/cadastrofornecedores/jkawflexcadastrofornecedores.html"/>
+        <mapID target="opcao.cadastro.cadastrosgerais.cadastrotransportadores" url="opcao/cadastro/cadastrosgerais/cadastrotransportadores/jkawflexcadastrotransportadores.html"/>
+        <mapID target="opcao.cadastro.cadastrosgerais.cadastrovendedores" url="opcao/cadastro/cadastrosgerais/cadastrovendedores/jkawflexcadastrovendedores.html"/>
+    <!-- Opção cadastro faturamento -->
+    <mapID target="opcao.cadastro.faturamento" url="opcao/cadastro/faturamento/jkawflexfaturamento.html"/>
+    <mapID target="opcao.cadastro.faturamento.cadastro marcas produtos" url="opcao/cadastro/faturamento/cadastro marcas produtos/jkawflexmarcasprodutos.html"/>
+    <mapID target="opcao.cadastro.faturamento.cadastro grupos subgrupos produtos" url="opcao/cadastro/faturamento/cadastro grupos subgrupos produtos/jkawflexGruposSubGruposProduto.html"/>
+    <mapID target="opcao.cadastro.faturamento.cadastro lista precos" url="opcao/cadastro/faturamento/cadastro lista precos/jkawflexlistaprecos.html"/>
+    <mapID target="opcao.cadastro.faturamento.cadastro unidade medidas" url="opcao/cadastro/faturamento/cadastro unidade medidas/jkawflexunidademedidas.html"/>
+    <mapID target="opcao.cadastro.faturamento.cadastro produtos" url="opcao/cadastro/faturamento/cadastro produtos/jkawflexprodutos.html"/>
+        <mapID target="opcao.cadastro.faturamento.cadastro produtos.cadastro produtos" url="opcao/cadastro/faturamento/cadastro produtos/cadastro produtos/jkawflexprodutos.html"/>
+        <mapID target="opcao.cadastro.faturamento.cadastro produtos.cadastro classificacao origem" url="opcao/cadastro/faturamento/cadastro produtos/cadastro classificacao origem/jkawflexclassificaoorigem.html"/>
+        <mapID target="opcao.cadastro.faturamento.cadastro produtos.classificacao tributaria" url="opcao/cadastro/faturamento/cadastro produtos/classificacao tributaria/jkawflexclassificaotributaria.html"/>
+        <mapID target="opcao.cadastro.faturamento.cadastro produtos.classificacao tipi" url="opcao/cadastro/faturamento/cadastro produtos/classificacao tipi/jkawflexclassificaotipi.html"/>
+        <mapID target="opcao.cadastro.faturamento.cadastro produtos.aliquotas icms" url="opcao/cadastro/faturamento/cadastro produtos/aliquotas icms/jkawflexaliquotaicms.html"/>
+    <mapID target="opcao.cadastro.faturamento.cadastro condicao pagamento" url="opcao/cadastro/faturamento/cadastro condicao pagamento/jkawflexcondicaopagamento.html"/>
+    <mapID target="opcao.cadastro.faturamento.cadastro serie documentos" url="opcao/cadastro/faturamento/cadastro serie documentos/jkawflexseriedocumentos.html"/>
+    <mapID target="opcao.cadastro.faturamento.cadastro almoxarifado" url="opcao/cadastro/faturamento/cadastro almoxarifado/jkawflexalmoxarifado.html"/>
+    <!-- opcao cadastro financeiro -->
+    <mapID target="opcao.cadastro.financeiro" url="opcao/cadastro/financeiro/jkawflexfinanceiro.html"/>
+        <mapID target="opcao.cadastro.financeiro.cadastro bancos" url="opcao/cadastro/financeiro/cadastro bancos/cadastrobancos.html"/>
+        <mapID target="opcao.cadastro.financeiro.cadastro agencias" url="opcao/cadastro/financeiro/cadastro agencias/cadastroagencias.html"/>
+        <mapID target="opcao.cadastro.financeiro.cadastro tipo conta corrente" url="opcao/cadastro/financeiro/cadastro tipo conta corrente/cadastrotipocontacorrente.html"/>
+        <mapID target="opcao.cadastro.financeiro.cadastro conta corrente" url="opcao/cadastro/financeiro/cadastro conta corrente/cadastrocontacorrente.html"/>
+        <mapID target="opcao.cadastro.financeiro.cadastro portador" url="opcao/cadastro/financeiro/cadastro portador/cadastroportador.html"/>
+        <mapID target="opcao.cadastro.financeiro.cadastro tipo cobranca" url="opcao/cadastro/financeiro/cadastro tipo cobranca/cadastrotipocobranca.html"/>
+        <mapID target="opcao.cadastro.financeiro.cadastro classificacao gerencial" url="opcao/cadastro/financeiro/cadastro classificacao gerencial/cadastroclassificacaogerencial.html"/>
+    <!-- opcao cadastro escrita fiscal -->
+    <mapID target="opcao.cadastro.cadastro escrita fiscal" url="opcao/cadastro/cadastro escrita fiscal/jkawflexescritafiscal.html"/>
+
+    <!-- Financeiro -->
+
+    <mapID target="opcaoarquivo" url="imagens/opcaoarquivo.gif"/>
+
+    <mapID target="criacao.helpset" url="criacao/helpset/helpset.html"/>
+    <mapID target="criacao.toc" url="criacao/toc/toc.html"/>
+    <mapID target="criacao.topicos" url="criacao/topicos/topicos.html"/>
+
+    <!-- Opção cadastro -->
+    <mapID target="opcao.cadastro.cadastros gerais.cadastrogrupossubgrupos" url="opcao/cadastro/cadastros gerais/cadastrogrupossubgrupos/jkawflexcadastrogrupossubgrupos.html"/>
+    <mapID target="opcao.movimentacao" url="opcao/movimentacao/jkawflexMovimentacao.html"/>    
+    <mapID target="criacao" url="criacao/criacao.html"/>
+
+    <!-- opcao relatorios -->
+    <!-- Icones -->
+	<mapID target="ico_ajuda" url="icones/ajuda.gif"/>
+    <mapID target="ico_topico" url="icones/topico.gif"/>
+    <mapID target="ico_high" url="icones/high.gif"/>
+    <mapID target="ico_procurar" url="icones/procurar.gif"/>
+    <mapID target="ico_popup" url="icones/cursor_ajuda.gif"/>    
+    <mapID target="hg_see" url="images/hg_see.gif"/>
+    <mapID target="chapTopic" url="images/chapTopic.gif"/>
+    <mapID target="bullet" url="images/bullet.gif"/>
+       
+    <mapID target="opcao.cadastro.faturamento.cadastro produtos.cadastro produtos" url="opcao/cadastro/faturamento/cadastro produtos/cadastro produtos/jkawflexprodutos.html"/>
+    <mapID target="opcao.cadastro.faturamento.cadastro produtos.cadastro classificao origem" url="opcao/cadastro/faturamento/cadastro produtos/cadastro classificao origem/jkawflexclassificaoorigem.html"/>
+    <mapID target="opcao.cadastro.faturamento.cadastro grupos subgrupos produto" url="opcao/cadastro/faturamento/cadastro grupos subgrupos produtos/jkawflexgrupos.html"/>
+    <mapID target="instalacao" url="instalacao/instalacao.html"/>
+    <!-- Imagens -->
+    <!-- Retornar Opcoes -->
+    <mapID target="opcao" url="opcao/opcaoindice.html"/>
+  </map>
